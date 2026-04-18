@@ -1,25 +1,25 @@
-# 🚀 Final Calidad de Software
+#  Final Calidad de Software
 
 ![Estado](https://img.shields.io/badge/Estado-En%20Desarrollo-green)
 ![Java](https://img.shields.io/badge/Java-17%2B-orange)
 ![License](https://img.shields.io/badge/Licencia-MIT-blue)
 
-## 📝 Descripción del Proyecto
+##  Descripción del Proyecto
 Este repositorio contiene el proyecto final para la asignatura de **Calidad de Software**. El objetivo principal es aplicar métricas, estándares de codificación y pruebas unitarias para asegurar un producto de software robusto y eficiente.
 
-## 🛠️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 * **Lenguaje:** Java 17+
 * **IDE:** IntelliJ IDEA
 * **Gestor de Dependencias:** Maven 
 * **Control de Versiones:** Git & GitHub
 
-## 📋 Características Principales
+##  Características Principales
 - [x] Implementación de lógica de negocio.
 - [x] Aplicación de principios SOLID.
 - [x] Cobertura de pruebas unitarias.
 - [ ] Análisis estático de código (SonarQube/Checkstyle).
 
-## 🚀 Instalación y Ejecución
+##  Instalación y Ejecución
 Para ejecutar este proyecto de forma local, sigue estos pasos:
 
 1. **Clonar el repositorio:**
